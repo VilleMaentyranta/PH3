@@ -2,6 +2,7 @@
 ## a) Tee tämä tehtävä Markdownilla
 
 Linkki .md-tiedostoon
+https://github.com/VilleMaentyranta/PH3/blob/master/harjoitus3.md
 
     Ajetaan peruskomento
         sudo apt-get update
